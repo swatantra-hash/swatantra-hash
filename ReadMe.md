@@ -1,5 +1,29 @@
-# 💫 About Me:
-🔭 I’m currently working on Web Vuln Scanner (mini): Developing a script to automate scans for insecure headers, TLS protocol issues, and directory listings. <br>Firewall Hardening: Refining server security through UFW (Uncomplicated Firewall) configuration and ingress/egress rule implementation. <br>👯 I’m looking to collaborate on<br><br>Open Source Security Tools: Projects involving penetration testing automation or Red/Blue teaming exercises. <br>Capture The Flag (CTF) Teams: Joining forces with other security enthusiasts for global competitions. <br>🤝 I’m looking for help with<br><br>Advanced Cloud Security: Specifically deep-diving into IAM and S3 security best practices within AWS. <br>Threat Modeling: Transitioning from foundational knowledge to professional-grade risk assessment frameworks. <br>🌱 I’m currently learning<br><br>SOC Operations: Exploring the nuances of Blue Team activities, including SIEM and Log Analysis.<br>Digital Forensics: Expanding my technical stack beyond offensive security into investigation and recovery. <br>💬 Ask me about<br><br>Ethical Hacking: I hold a Jr Pen Tester certification and have completed multiple TryHackMe pathways. <br>Password Entropy: I built a client-side evaluator to check character diversity and common password patterns. <br>Campus Leadership: My experience as an Internshala Student Partner, where I've led workshops for 100+ students. <br>⚡ Fun fact<br>I’m ranked in the Top 4% globally on TryHackMe and have earned over 20 offensive/defensive badges. <br><br>When I'm not hunting vulnerabilities, I'm a dedicated Cinephile. <br>
+# About Me
+
+## Currently Working On
+- **Web Vulnerability Scanner (Mini):** Developing a script to automate scans for insecure headers, TLS protocol issues, and directory listings.
+- **Firewall Hardening:** Refining server security through UFW (Uncomplicated Firewall) configuration and ingress/egress rule implementation.
+
+## Open to Collaboration
+- **Open Source Security Tools:** Projects involving penetration testing automation or Red/Blue teaming exercises.
+- **Capture The Flag (CTF) Teams:** Joining forces with other security enthusiasts for global competitions.
+
+## Seeking Guidance In
+- **Advanced Cloud Security:** Specifically deep-diving into IAM and S3 security best practices within AWS.
+- **Threat Modeling:** Transitioning from foundational knowledge to professional-grade risk assessment frameworks.
+
+## Currently Learning
+- **SOC Operations:** Exploring the nuances of Blue Team activities, including SIEM and log analysis.
+- **Digital Forensics:** Expanding my technical stack beyond offensive security into investigation and recovery.
+
+## Areas of Expertise
+- **Ethical Hacking:** Jr. Penetration Tester certified with multiple completed TryHackMe pathways.
+- **Password Entropy:** Built a client-side evaluator to assess character diversity and detect common password patterns.
+- **Campus Leadership:** Served as an Internshala Student Partner, leading workshops for 100+ students.
+
+## Highlights
+- Ranked in the **Top 2% globally on TryHackMe** with over **20 offensive and defensive badges earned**.
+- Passionate cinephile — when not hunting vulnerabilities, you'll find me analyzing films.
 
 
 ## 🌐 Socials:
